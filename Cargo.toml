@@ -9,6 +9,7 @@ license = "MIT OR Apache-2.0"
 repository = "https://github.com/nannou-org/ilda-idtf.git"
 homepage = "https://github.com/nannou-org/ilda-idtf"
 edition = "2018"
+exclude = ["/test_files"]
 
 [dependencies]
 bitflags = "1"
