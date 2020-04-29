@@ -1,0 +1,13 @@
+[package]
+name = "ilda-idtf"
+version = "0.1.0"
+authors = ["mitchmindtree <mitchell.nordine@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bitflags = "1"
+byteorder =  { version = "1", default-features = false }
+zerocopy = "0.3"
+
+[dev-dependencies]
+walkdir = "2"
