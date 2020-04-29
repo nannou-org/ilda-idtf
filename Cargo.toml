@@ -2,6 +2,12 @@
 name = "ilda-idtf"
 version = "0.1.0"
 authors = ["mitchmindtree <mitchell.nordine@gmail.com>"]
+description = "A complete implementation of the ILDA Image Data Transfer Format Specification, Revision 011, 2014-11-16."
+readme = "README.md"
+keywords = ["ilda", "image", "data", "transfer", "format"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/nannou-org/ilda-idtf.git"
+homepage = "https://github.com/nannou-org/ilda-idtf"
 edition = "2018"
 
 [dependencies]
